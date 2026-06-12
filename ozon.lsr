@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,cdn.ozon.ru,OZON
 DOMAIN-SUFFIX,ozonusercontent.com,OZON
 DOMAIN-SUFFIX,ozon-st.cdn.ngenix.net,OZON
 DOMAIN-KEYWORD,ozon,OZON
+DOMAIN-SUFFIX,api.ozon.ru
+DOMAIN-SUFFIX,xapi.ozon.ru
+DOMAIN-SUFFIX,cdn.ozon.ru
+DOMAIN-SUFFIX,ozoncdn.net
